@@ -11,4 +11,13 @@ This Python script uses OpenCV and the pyzbar library to detect and decode QR co
 # Resultats
 ![Screenshot from 2023-08-28 21-12-01 (1)](https://github.com/Yassine-Jegham/Code---Barre-QR/assets/116890996/3f9231dc-be00-4bd2-9a94-732783bff81e)
 
+![Screenshot from 2023-08-28 21-15-01 (1)](https://github.com/Yassine-Jegham/Code---Barre-QR/assets/116890996/65753437-568a-4ab1-b78e-009f3f0f245d)
+
+# Next Step 
+* Implementing our facial recognition model in real-time applications transforms data into identities, orchestrating a symphony of recognition with each captured frame.
+
+# Contact Me
+If you have any questions or feedback, please contact me at [yjegham@gmail.com]
+
+
 
