@@ -3,17 +3,11 @@ This Python script uses OpenCV and the pyzbar library to detect and decode QR co
 
 # Requirements
 * Python 3.x
-* PyTorch
-* OpenCV
-* YOLOv5
-* roboflow
-* ultralytics
-* torch
-* Pillow
-* tensorboard
-# References
-[ [YOLOv5]]https://github.com/ultralytics/yolov5
-
-[[[ roboflow ]] ]https://roboflow.com/
+* OpenCV (cv2)
+* numpy
+* pyzbar.pyzbar
+* gTTS
 
 # Resultats
+
+
