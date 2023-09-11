@@ -9,5 +9,6 @@ This Python script uses OpenCV and the pyzbar library to detect and decode QR co
 * gTTS
 
 # Resultats
+![Screenshot from 2023-08-28 21-12-01 (1)](https://github.com/Yassine-Jegham/Code---Barre-QR/assets/116890996/3f9231dc-be00-4bd2-9a94-732783bff81e)
 
 
